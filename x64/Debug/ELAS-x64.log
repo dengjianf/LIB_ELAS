@@ -1,0 +1,37 @@
+﻿  elas.cpp
+f:\毕业设计\project\elas\vs\elas-x64\elas.h(95): warning C4305: “=”: 从“double”到“float”截断
+f:\毕业设计\project\elas\vs\elas-x64\elas.h(103): warning C4305: “=”: 从“double”到“float”截断
+f:\毕业设计\project\elas\vs\elas-x64\elas.h(122): warning C4305: “=”: 从“double”到“float”截断
+f:\毕业设计\project\elas\vs\elas-x64\elas.h(130): warning C4305: “=”: 从“double”到“float”截断
+f:\毕业设计\project\elas\vs\elas-x64\elas.cpp(490): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+f:\毕业设计\project\elas\vs\elas-x64\elas.cpp(495): warning C4244: “=”: 从“int32_t”转换到“float”，可能丢失数据
+f:\毕业设计\project\elas\vs\elas-x64\elas.cpp(496): warning C4244: “=”: 从“int32_t”转换到“float”，可能丢失数据
+f:\毕业设计\project\elas\vs\elas-x64\elas.cpp(500): warning C4244: “=”: 从“int32_t”转换到“float”，可能丢失数据
+f:\毕业设计\project\elas\vs\elas-x64\elas.cpp(501): warning C4244: “=”: 从“int32_t”转换到“float”，可能丢失数据
+f:\毕业设计\project\elas\vs\elas-x64\elas.cpp(578): warning C4244: “=”: 从“FLOAT”转换到“float”，可能丢失数据
+f:\毕业设计\project\elas\vs\elas-x64\elas.cpp(579): warning C4244: “=”: 从“FLOAT”转换到“float”，可能丢失数据
+f:\毕业设计\project\elas\vs\elas-x64\elas.cpp(580): warning C4244: “=”: 从“FLOAT”转换到“float”，可能丢失数据
+f:\毕业设计\project\elas\vs\elas-x64\elas.cpp(606): warning C4244: “=”: 从“FLOAT”转换到“float”，可能丢失数据
+f:\毕业设计\project\elas\vs\elas-x64\elas.cpp(607): warning C4244: “=”: 从“FLOAT”转换到“float”，可能丢失数据
+f:\毕业设计\project\elas\vs\elas-x64\elas.cpp(608): warning C4244: “=”: 从“FLOAT”转换到“float”，可能丢失数据
+f:\毕业设计\project\elas\vs\elas-x64\elas.cpp(643): warning C4244: “=”: 从“float”转换到“int32_t”，可能丢失数据
+f:\毕业设计\project\elas\vs\elas-x64\elas.cpp(645): warning C4244: “=”: 从“float”转换到“int32_t”，可能丢失数据
+f:\毕业设计\project\elas\vs\elas-x64\elas.cpp(646): warning C4244: “初始化”: 从“float”转换到“int32_t”，可能丢失数据
+f:\毕业设计\project\elas\vs\elas-x64\elas.cpp(818): warning C4244: “=”: 从“int32_t”转换到“float”，可能丢失数据
+f:\毕业设计\project\elas\vs\elas-x64\elas.cpp(877): warning C4244: “=”: 从“int32_t”转换到“float”，可能丢失数据
+f:\毕业设计\project\elas\vs\elas-x64\elas.cpp(878): warning C4244: “=”: 从“int32_t”转换到“float”，可能丢失数据
+f:\毕业设计\project\elas\vs\elas-x64\elas.cpp(879): warning C4244: “=”: 从“int32_t”转换到“float”，可能丢失数据
+f:\毕业设计\project\elas\vs\elas-x64\elas.cpp(881): warning C4244: “=”: 从“int32_t”转换到“float”，可能丢失数据
+f:\毕业设计\project\elas\vs\elas-x64\elas.cpp(882): warning C4244: “=”: 从“int32_t”转换到“float”，可能丢失数据
+f:\毕业设计\project\elas\vs\elas-x64\elas.cpp(883): warning C4244: “=”: 从“int32_t”转换到“float”，可能丢失数据
+f:\毕业设计\project\elas\vs\elas-x64\elas.cpp(885): warning C4838: 从“int32_t”转换到“float”需要收缩转换
+f:\毕业设计\project\elas\vs\elas-x64\elas.cpp(885): warning C4244: “初始化”: 从“int32_t”转换到“float”，可能丢失数据
+f:\毕业设计\project\elas\vs\elas-x64\elas.cpp(1030): warning C4244: “=”: 从“float”转换到“int32_t”，可能丢失数据
+f:\毕业设计\project\elas\vs\elas-x64\elas.cpp(1360): warning C4305: “参数”: 从“int”到“float”截断
+  main.cpp
+f:\毕业设计\project\elas\vs\elas-x64\elas.h(95): warning C4305: “=”: 从“double”到“float”截断
+f:\毕业设计\project\elas\vs\elas-x64\elas.h(103): warning C4305: “=”: 从“double”到“float”截断
+f:\毕业设计\project\elas\vs\elas-x64\elas.h(122): warning C4305: “=”: 从“double”到“float”截断
+f:\毕业设计\project\elas\vs\elas-x64\elas.h(130): warning C4305: “=”: 从“double”到“float”截断
+  正在生成代码...
+  ELAS-x64.vcxproj -> F:\毕业设计\Project\elas\vs\x64\Debug\ELAS-x64.exe
